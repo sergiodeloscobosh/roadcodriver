@@ -31,17 +31,10 @@ No te preocupes, es muy fácil.
 
 Paso 1
 
-Abre la carpeta llamada:
+al iniciar .bat abrira el telemetry-server
 
-telemetry-server
 
 Paso 2
-
-Dentro de esa carpeta ejecuta el programa:
-
-Entra en carpeta server e inicia ETS2 Telemetry.exe
-
-Paso 3
 
 Se abrirá una pequeña ventana.
 
